@@ -1,0 +1,29 @@
+{
+  "handle": "@skillsarmaya",
+  "display_name": "SkillSarmaya",
+  "bio": "Personal finance that actually makes sense. Build wealth the smart way.",
+  "niche": "Personal Finance / Wealth Building / Pakistani & South-Asian audience",
+  "content_type": "Educational Reels – Hook → Insight → Actionable Payoff",
+  "primary_language": "English overlays + Hindi/Urdu voice",
+  "page_url": "https://www.instagram.com/skillsarmaya/",
+  "other_socials": {
+    "youtube": "",
+    "tiktok": "",
+    "twitter": "",
+    "website": ""
+  },
+  "default_hashtags": [
+    "#personalfinance",
+    "#wealthbuilding",
+    "#moneytips",
+    "#financialfreedom",
+    "#pakistanifinance"
+  ],
+  "brand_colors": {
+    "primary_teal": "#0F2F42",
+    "highlight_yellow": "#FFD600",
+    "accent_green": "#2ECC71",
+    "alert_coral": "#FF5E4D"
+  },
+  "notes": "Edit this file freely. The skill reads it on every run for captions, tags, and brand tokens."
+}
